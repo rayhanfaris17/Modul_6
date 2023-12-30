@@ -4,7 +4,7 @@ This project using VGG19 an advanced Convolutional Neural Network (CNN) for imag
 ## Dataset
 The dataset consists of images of hand gestures representing rock, paper, and scissors. The dataset is divided into training, validation, and test sets.
 
-![rock01-000](https://github.com/briliando00/RPS-Predict/assets/71593813/6478068d-9369-4241-8e5f-da0937ff3967)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/paper1.png)
 ![paper01-000](https://github.com/briliando00/RPS-Predict/assets/71593813/4fefa0da-e827-498e-9998-2db098b35b5d)
 ![scissors01-000](https://github.com/briliando00/RPS-Predict/assets/71593813/088b9324-30c7-41ea-8bd7-531b2a767b76)
 
