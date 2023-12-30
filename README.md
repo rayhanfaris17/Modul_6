@@ -4,15 +4,15 @@ This project using VGG19 an advanced Convolutional Neural Network (CNN) for imag
 ## Dataset
 The dataset consists of images of hand gestures representing rock, paper, and scissors. The dataset is divided into training, validation, and test sets.
 
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/rock1.png)
 ![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/paper1.png)
-![paper01-000](https://github.com/briliando00/RPS-Predict/assets/71593813/4fefa0da-e827-498e-9998-2db098b35b5d)
-![scissors01-000](https://github.com/briliando00/RPS-Predict/assets/71593813/088b9324-30c7-41ea-8bd7-531b2a767b76)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/scissors.png)
 
 ## Model Architecture
 
 This is the result of VGG19 model:
 
-
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/vgg19%20model.png)
 
 ## Training
 
@@ -23,11 +23,11 @@ and then the model save to .h5 file
 
 Graph Training and Validation Accuracy :
 
-![image](https://github.com/briliando00/RPS-Predict/assets/71593813/abf13374-81c5-44d0-bdf1-deacf3b909b2)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/acc.png)
 
 Graph Training and Validation Loss :
 
-![image](https://github.com/briliando00/RPS-Predict/assets/71593813/d7887e7b-0342-4f07-a6fa-326ac567f38a)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/loss.png)
 
 Classification Report
 
@@ -42,7 +42,9 @@ Classification Report
 
 ## Result
 
-![image](https://github.com/briliando00/RPS-Predict/assets/71593813/b5eda0c8-46e7-4e0d-9946-862234788897)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/result1.png)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/result2.png)
+![pictures](https://github.com/rayhanfaris17/Modul_6/blob/main/pictures/result3.png)
 
 
 ## Web Deployment
